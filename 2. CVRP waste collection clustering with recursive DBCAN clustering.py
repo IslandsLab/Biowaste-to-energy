@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  7 11:47:21 2022
 
-@author: Chris
+@author: @Chris @Islands and Coastal Research Lab
 
 Inputs
 1. Dataframe of resources with matched OSMnx nodes, resource type and location 
