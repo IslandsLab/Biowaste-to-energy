@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 11 10:58:09 2022
 
-@author: Chris
+@author: @Chris @Islands and Coastal Research Lab
 
 Main Inputs
 
