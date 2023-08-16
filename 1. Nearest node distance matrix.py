@@ -2,7 +2,7 @@
 """
 Created on Thu May 19 15:58:01 2022
 
-@author: Chris
+@author: @Chris @Islands and Coastal Research Lab
 
 Main Inputs
 1. OSMnx graph of region, cleaned for vehicle roads only and with metrics of 
